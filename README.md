@@ -13,19 +13,19 @@ SkyZee is a web-based weather application that provides real-time weather inform
 
 ## Tech Stack
 
-* **Frontend:** React.js
-* **Backend:** Laravel
-* **Database:** SQLite
+* Frontend: React.js
+* Backend: Laravel
+* Database: SQLite
 
 ## Project Structure
 
-SkyZee-Weather-App/
-├── react/       # React.js Frontend
-└── laravel/     # Laravel Backend & API
+* SkyZee-Weather-App/
+* ├── react/       # React.js Frontend
+* └── laravel/     # Laravel Backend & API
 
 ## Author
 
 **Arham Raza**
-Full-Stack Developer
-IBM Professional Certificate
-@ MicroZee Solutions
+* Full-Stack Developer
+* IBM Professional Certificate
+* @ MicroZee Solutions
