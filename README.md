@@ -19,13 +19,13 @@ SkyZee is a web-based weather application that provides real-time weather inform
 
 ## Project Structure
 
-* SkyZee-Weather-App/
+SkyZee-Weather-App/
 * ├── react/       # React.js Frontend
 * └── laravel/     # Laravel Backend & API
 
 ## Author
 
-**Arham Raza**
+* Arham Raza
 * Full-Stack Developer
 * IBM Professional Certificate
 * @ MicroZee Solutions
